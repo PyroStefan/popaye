@@ -1,2 +1,2 @@
 # popaye
-Simple exercise tracker/logger
+Simple exercise tracker/logger.
